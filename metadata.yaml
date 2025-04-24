@@ -1,0 +1,30 @@
+_repo: Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XV-Heft-5-6-b-Monatsschrift-fur-Heima__75906
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Landesverein Sächsischer Heimatschutz
+    aliases:
+    - Heimatschutz, Landesverein Sächsischer
+    - Landesverein Sachsischer Heimatschutz
+    gutenberg_agent_id: '53108'
+    url: http://www.gutenberg.org/2009/agents/53108
+    wikipedia: https://de.wikipedia.org/wiki/Landesverein_S%C3%A4chsischer_Heimatschutz
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75906'
+language: de
+pgterms:marc905: 20240601024406schsischer
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aDresden :$bLandesverein Sächsischer Heimatschutz, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Landesverein Sächsischer Heimatschutz — Mitteilungen Band XV, Heft 5-6 : $b
+  Monatsschrift für Heimatschutz, Volkskunde und Denkmalpflege'
+url: http://www.gutenberg.org/ebooks/75906
