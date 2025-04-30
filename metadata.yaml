@@ -1,5 +1,8 @@
 _repo: Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XV-Heft-5-6-b-Monatsschrift-fur-Heima__75906
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75906-h/images/cover.jpg
 creator:
   editor:
     agent_name: Landesverein Sächsischer Heimatschutz
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53108
     wikipedia: https://de.wikipedia.org/wiki/Landesverein_S%C3%A4chsischer_Heimatschutz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75906#Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XV-Heft-5-6-b-Monatsschrift-fur-Heima_
 gutenberg_issued: '2025-04-19'
 gutenberg_type: Text
 identifiers:
